@@ -1,5 +1,4 @@
 PDFLATEX := /usr/local/bin/pdflatex
-BIBTEX := /usr/local/bin/bibtex
 clean:
 	rm -f *.aux
 	rm -f *.bbl
